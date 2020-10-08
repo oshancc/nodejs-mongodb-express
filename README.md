@@ -1,5 +1,5 @@
 # nodejs-mongodb-express
-node_modules are added
+node_modules are not added
 ........................................added packages............................
 npm install expess nodemon
 npm install mongoose
